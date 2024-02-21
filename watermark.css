@@ -25,3 +25,8 @@ a {
 	text-decoration: none ;
 	width: 200px;
   padding: 57px;
+  
+  @media screen and (max-width: 600px) {
+    /* CSS rules for screens with a maximum width of 600px (typical mobile screens) */
+    /* Example: Adjust layout, font sizes, etc. */
+}
